@@ -19,10 +19,6 @@ from streamlit_pages.about import display_about_page
 
 # Import utility functions for data processing
 from util import *
-from dotenv import load_dotenv
-
-# Load environment variables from .env file
-load_dotenv('secret.env')
 
 # Commented out import for potential future ELO ranking functionality
 # from pages.elo_list import elo_list
@@ -271,3 +267,4 @@ def main():
 # Application entry point - runs main function when script is executed directly
 if __name__ == "__main__":
     main()
+
