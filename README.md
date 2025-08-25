@@ -1,4 +1,4 @@
-# Formula 1 Teammate-Based Analytics Hub
+# FormHub - A Formula 1 Teammate-Based Analytics Hub
 _Data-driven driver insights where every comparison is car-neutral_
 
 ---
