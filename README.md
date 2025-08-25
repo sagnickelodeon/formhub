@@ -72,6 +72,7 @@ First launch downloads public race CSVs (~2 MB) and builds the initial rating ta
 │ ├── reliability_analysis.py
 │ └── track_analytics.py
 ├── util.py
+├── azure_functions.py
 ├── requirements.txt
 └── README.md
 </pre>
